@@ -1,0 +1,17 @@
+home
+    navbar
+        logo
+        index
+        login
+    introduction of the page
+    general comments form user
+    footer
+
+
+login page
+    login form
+    register form
+
+User interface
+    
+
